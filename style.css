@@ -1,0 +1,92 @@
+body {
+    background-color:rgb(143, 85, 85);
+    margin: 0;
+}
+header {
+    width: 100%;
+    position: fixed;
+    background-color:rgb(153, 72, 72);
+}
+.navegacion{
+    display: inline-block;
+}
+a {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    margin: 0px;
+    padding: 20px;
+}
+nav {
+    float: right;
+}
+main{
+    padding: 20px;
+}
+.Pres{
+    margin: 100px 100px 100px 300px;
+    background-color:rgb(149, 97, 97) ;
+    width: 48%;
+    height: 400px;
+    padding: 0px 10px 20px 200px;
+}
+#foto{
+    width: 200px; 
+    height: 200px;
+    float:inline-start
+}
+.parrafo{
+    width: 300px;
+    font-size:20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+}
+.yo{
+    display: inline-block;
+    margin: 20px;
+    padding: 100px 0px 0px;
+}
+.rol{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+h2 {
+    font-size: 40px;
+    text-align: center;
+}
+.Conocimientos{
+    margin: 100px 100px 100px 300px;
+    background-color:rgb(149, 97, 97) ;
+    font-size: 30px;
+    padding: 10px 10px 10px 300px;
+    width: 42%;
+}
+.Habilidades{
+    margin: 100px 100px 100px 300px;
+    background-color:rgb(149, 97, 97) ;
+    font-size: 30px;
+    padding: 10px 10px 10px 300px;
+    width: 42%;
+}
+.Gen, .Udg{
+    width: 300px;
+}
+.Estudios{
+    font-size:20px;
+    margin:50px 100px 0px 500px;
+}
+.Curso{
+    display: inline-block;
+    padding: 30px;
+}
+footer{
+    font-size: 25px;
+    text-align: center;
+}
+.icono{
+    width: 100px;
+    height: 100px;
+    padding: 0;
+}
