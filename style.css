@@ -1,0 +1,39 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 15px;
+}
+h2 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    margin:10px 30px 30px 200px;
+}
+.Botones{
+    display:inline-block;
+    margin: 20px;
+}
+.letter {
+    width: 70px;
+    height: 60px;
+    border: 7px solid rgb(236, 229, 229);
+}
+.space{
+    width: 100px;
+    height: 60px;
+    border: 7px solid rgb(236, 229, 229);
+}
+.Cuerpo{
+    margin: 30px 30px 0px 600px;
+    width: 400px;
+}
+hr {
+    border-top:10px solid black; width:100%;
+    -moz-transform: rotate(45deg);  
+    -o-transform: rotate(10deg);  
+    -webkit-transform: rotate(10deg);  
+    -ms-transform: rotate(10deg);  
+    transform: rotate(16deg); 
+    }
